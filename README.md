@@ -1,2 +1,4 @@
 # wm_via_systemd-with_xdg
-Run i3wm and possibly other windowmanagers as a systemd service with XDG Autostart feature.
+
+Запустите awesomewm и, возможно, другие оконные менеджеры в качестве службы
+systemd с функцией автозапуска XDG.
