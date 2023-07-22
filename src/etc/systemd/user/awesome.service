@@ -10,7 +10,7 @@ Wants=xdg-desktop-autostart.target
 
 [Service]
 Type=simple
-ExecStart=/usr/bin/dbus-launch --sh-syntax --exit-with-session awesome --shmlog-size 0
+ExecStart=/usr/bin/dbus-launch --sh-syntax --exit-with-session awesome
 Restart=on-failure
 RestartSec=5
 TimeoutStopSec=10
